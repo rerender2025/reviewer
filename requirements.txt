@@ -1,0 +1,13 @@
+certifi==2025.8.3
+charset-normalizer==3.4.2
+comtypes==1.4.11
+idna==3.10
+imageio==2.37.0
+numpy==2.3.2
+pillow==11.3.0
+pyJianYingDraft==0.2.3
+pymediainfo==7.0.1
+PyMuPDF==1.26.3
+requests==2.32.4
+uiautomation==2.0.29
+urllib3==2.5.0
